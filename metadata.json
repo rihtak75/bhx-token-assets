@@ -1,8 +1,8 @@
 
 {
-  "name": "BHRT Coin",
+  "name": "Bharat Coin",
   "symbol": "BHX",
-  "description": "BHRT Coin (BHX) is a Solana-based token currently being tested on Devnet. This metadata is for development and testing only.",
+  "description": "Bharat Coin (BHX) is a Solana-based token currently being tested on Devnet. This metadata is for development and testing only.",
   "image": "https://raw.githubusercontent.com/rihtak75/bhx-token-assets/main/bhx-logo.png",
   "external_url": "https://github.com/rihtak75/bhx-token-assets",
   "attributes": [
