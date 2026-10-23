@@ -1,0 +1,17 @@
+{
+  "name": "BHRT Coin",
+  "symbol": "BHX",
+  "description": "BHRT Coin (BHX) is a Solana-based token currently being tested on Devnet. This metadata is for development and testing only.",
+  "image": "REPLACE_WITH_PUBLIC_LOGO_URL",
+  "external_url": "https://github.com/rihtak75",
+  "attributes": [
+    { "trait_type": "Network", "value": "Solana Devnet" },
+    { "trait_type": "Token Type", "value": "Fungible SPL Token" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "REPLACE_WITH_PUBLIC_LOGO_URL", "type": "image/png" }
+    ],
+    "category": "image"
+  }
+}
